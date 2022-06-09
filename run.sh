@@ -1,1 +1,0 @@
-docker run -d -p 1234:1234 --name jump thebrain-jump:v1

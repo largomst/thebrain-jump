@@ -1,1 +1,0 @@
-docker build -t thebrain-jump:v1 .
