@@ -1,8 +1,4 @@
-"""
-该脚本
-"""
 from flask import Flask, request, redirect
-import webbrowser
 import urllib.parse
 
 app = Flask(__name__)
