@@ -1,4 +1,4 @@
-# thebrian-jump
+# thebrain-jump
 
 [![pdm-managed](https://img.shields.io/badge/pdm-managed-blueviolet)](https://pdm.fming.dev)
 
@@ -11,7 +11,7 @@
 
 ```bash
 $ git clone git@github.com:largomst/thebrain-jump.git
-$ cd thebrian-jump
+$ cd thebrain-jump
 $ docker compose up -d
 ```
 
